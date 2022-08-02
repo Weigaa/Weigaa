@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying at Xi'an Jiaotong University.
+- 🌱 I’m currently learning deep learning with computer architecture.
+- 👯 I’m looking to collaborate on Computer Science.
+- 🤔 I’m looking for help with ML Sys.
+- 💬 Ask me about ML and DL.
+- 📫 How to reach me: weijia4473@stu.xjtu.edu.cn
+- 😄 Pronouns: Jia
+- ⚡ Fun fact: Let's play badminton without talking any code.
+
 <!--
 **Weigaa/Weigaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
