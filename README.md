@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at Xi'an Jiaotong University.
+- 🔭 I’m currently studying at Xi'an Jiaotong University. I'm visiting the University of Alberta now.
 - 🌱 I’m currently learning deep learning with computer architecture.
 - 👯 I’m looking to collaborate on Computer Science.
 - 🤔 I’m looking for help with ML Sys.
