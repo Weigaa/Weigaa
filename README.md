@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at Xi'an Jiaotong University. I'm visiting the University of Alberta now.
+- 🔭 I'v already graduated from Xi'an Jiaotong University on Dec, 2024. I’m currently avaliable on the job market!!! Pls contact with me If you're interested. 
 - 🌱 I’m currently learning deep learning with computer architecture.
 - 👯 I’m looking to collaborate on Computer Science.
 - 🤔 I’m looking for help with ML Sys.
 - 💬 Ask me about ML and DL.
-- 📫 How to reach me: weijia4473@stu.xjtu.edu.cn
+- 📫 How to reach me: weijia4473@gmail.com.
 - 😄 Pronouns: Jia
 - ⚡ Fun fact: Let's play badminton without talking any code.
 
